@@ -1,0 +1,28 @@
+glDrawArraysInstancedBaseInstance             4.2
+glDrawElementsInstancedBaseInstance           4.2
+glDrawTransformFeedbackInstanced              4.2
+glDrawTransformFeedbackStreamInstanced        4.2
+glMultiDrawArraysIndirect                     4.3
+glMultiDrawElementsIndirect                   4.3
+glDrawElementsInstancedBaseVertexBaseInstance 4.2
+
+
+
+
+glDrawArrays                                  2.0
+glMultiDrawArrays                             2.0
+glDrawArraysIndirect                          4.0
+glDrawArraysInstanced                         3.1
+
+glDrawElements                                2.0
+glDrawRangeElements                           2.0
+glMultiDrawElements                           2.0
+glDrawElementsBaseVertex                      3.2
+glDrawElementsIndirect                        4.0
+glDrawElementsInstanced                       3.1
+glDrawRangeElementsBaseVertex                 3.2
+glDrawElementsInstancedBaseVertex             3.2
+glMultiDrawElementsBaseVertex                 3.3
+
+glDrawTransformFeedback                       4.0
+glDrawTransformFeedbackStream                 4.0
